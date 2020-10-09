@@ -14,7 +14,8 @@
 - <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 - <img height="32px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
 
-
+## My Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=synthofficial&show_icons=true&hide_border=true)
 
 ### Connect with me:
 [<img align="left" alt="discord-server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
