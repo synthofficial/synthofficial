@@ -7,6 +7,13 @@
 - <img height="18px" src="https://cdn.svgporn.com/logos/java.svg"> Java
 - <img height="18px" src="https://cdn.svgporn.com/logos/html-5.svg"> HTML5
 
+## Tools that I use
+
+- <img height="32px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+- <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+- <img height="32px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+- <img height="32px" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
+
 
 
 ### Connect with me:
