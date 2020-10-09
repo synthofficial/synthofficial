@@ -2,10 +2,10 @@
 
 ## Languages I am fond of/learning:
 
-- <img height="16px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> C++
-- <img height="16px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript
-- <img height="16px" src="https://cdn.svgporn.com/logos/java.svg"> Java
-- <img height="16px" src="https://cdn.svgporn.com/logos/html-5.svg"> HTML5
+- <img height="18px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> C++
+- <img height="18px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript
+- <img height="18px" src="https://cdn.svgporn.com/logos/java.svg"> Java
+- <img height="18px" src="https://cdn.svgporn.com/logos/html-5.svg"> HTML5
 
 
 
