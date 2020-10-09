@@ -7,6 +7,7 @@
 - 👽 C++
 - 👻 Java
 
-### Spotify 🎧
+### Connect with me:
+[<img align="left" alt="discord-server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Synth is listening to:" width="350" />](https://open.spotify.com/user/c3oa2ucfghsxmdf4mez3jmb20)
+[discord]: https://discord.gg/KPgA4p
