@@ -24,6 +24,7 @@
 [discord]: https://discord.gg/KPgA4p
 [twitter]: https://twitter.com/Synth_RL
 
+
 ### Current projects:
 
 - Discord.JS Bot
