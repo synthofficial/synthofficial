@@ -1,5 +1,9 @@
 ### Hi there 👋 My name is Synth and I am an 18 year old developer.
 
+### Current projects:
+
+- Discord.JS Bot
+
 ## Languages I am fond of/learning:
 
 - <img height="18px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> C++
@@ -17,14 +21,10 @@
 ## My Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=synthofficial&show_icons=true&hide_border=true)
 
+
 ### Connect with me:
 [<img align="left" alt="discord-server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="twitter-account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [discord]: https://discord.gg/KPgA4p
 [twitter]: https://twitter.com/Synth_RL
-
-
-### Current projects:
-
-- Discord.JS Bot
