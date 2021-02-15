@@ -2,7 +2,7 @@
 
 ### Current projects:
 
-- Discord.JS Bot
+- Idle Slayer (Discord Bot)
 
 ## Languages I am fond of/learning:
 
