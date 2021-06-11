@@ -1,10 +1,10 @@
-### Hi there 👋 My name is Synth and I am an 18 year old developer.
+### Hi there 👋 My name is Synth and I am an 19 year old aspiring developer.
 
 ### Current projects:
 
-- Idle Slayer (Discord Bot)
+- Any Discord Bot
 
-## Languages I am fond of/learning:
+## Languages I am learning:
 
 - <img height="18px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> C++
 - <img height="18px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript
