@@ -6,7 +6,7 @@
 <a href="https://github.com/synthofficial" title="Follow me on Github!">
     <img alt="followers" title="followers" src="https://img.shields.io/github/followers/synthofficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 </a>
-  <a href="https://twitter.com/DenverCoder1">
+  <a href="https://twitter.com/SynthZM">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/SynthZM?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 </p>
