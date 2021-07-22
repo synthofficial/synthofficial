@@ -2,8 +2,6 @@
    👋 Synth's Github Profile! 👋
 </h1>
 
-##
-
 <p align="center">
 <a href="https://github.com/synthofficial" title="Follow me on Github!">
     <img alt="followers" title="followers" src="https://img.shields.io/github/followers/synthofficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
@@ -12,6 +10,8 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/SynthZM?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
 </p>
+
+##
 
 <h2 align="center">
     📊 Github stats 📊
