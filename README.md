@@ -1,6 +1,5 @@
-<h1 align="center">
+<div align="center">
 👋 Hi! I'm Synth!
-</h1>
 
 ## ❓About Me
 
@@ -15,3 +14,4 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJIdea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=synthofficial&count_private=true&show_icons=true&theme=aura_dark)
+</div>
