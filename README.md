@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/synthofficial/synthofficial/pfp.gif" width="20%" align="right" />
 <pre>
 👋 Hi! I'm Synth!
 
