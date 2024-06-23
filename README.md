@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/619/251/f38.gif" width="20%" align="right" />
+<img src="https://github.com/synthofficial/synthofficial/pfp.gif" width="20%" align="right" />
 <pre>
 👋 Hi! I'm Synth!
 
